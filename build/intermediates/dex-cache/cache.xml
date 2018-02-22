@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/b6c8ba126bcd401ae12e67de7ab04e5097bc981a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3afc94f00cc6214edf7dc6b519cb72a4c3f699da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/b34023499ffb7737fb2a287c0e718c7fb7a46c3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2885446dced81b6c8ae8c15bd90b2100ed007774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cf5305b634856c9ecb9b72be5a8f7975b6934232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/8349cc9c93a1838389acce73557309966a350720/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fc6936b88067ea58ac18e5e54e8ba2842771743/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/93a36a1660f248f97ccea050d9b655129da09e4c/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_982f8c1d24b47ef866bfcefd25ca5bd70ca33bf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bb6950597abe4b5f723835f4a70f083e52592be4">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_df959b23e5633e940d55f2eb4ee7d8d40c702353/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/826362f3e86c11c7cd2f61dfa7898a8aed25eafa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b1ac3f6753e7c96516e40e37e17bef22865e8f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_f89deec5b0e885d37f93e19d7401365f1ebffbf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/a46ad359cd203e41a4cc6ca5263d4e0880d604f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abdff082ccc1c0383ec6253ab75ec7748a4cb312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/e84e6b4a365dfe415a0f78c5fd3da27caa1515ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57fc6f785e86c77f650b76ec22ec1134bd2b41e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/ce4e86c3f5e6c9f77cda8f7a27dab83c9c9c2de7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09e84908dbfb947389b4d82278ab07c687646d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/9ac99611a84cc205b2a48ab4fef82fba57767057/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de5b5d4b9a6666a20ee76bcc02bb488a2e6650a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/35d21be2639d1989128a888c841b113ed2691350/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e3e3aafc7aebe03535146f046d5697ffcd46236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/184c719fe003b845df1c93c3eafce83d0b5282d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69abbbcf3a257687828d23a99c4ef19a3ed6caf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/4bff58e05a28c005adf5ca21f30c7b5d6a704129/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da73a460842222d2f558f8096fe4fc1df0cc3eb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/81d3daa54a3856cc6fc25beb75ee4e311c530a33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9037667656f348eaf1b6362ce6f2d1eba0aad593/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/8fb54cae120dba01950c9d84883d912e4fca4235/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_807252f27530ce26feb9da63de081b9904763c24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/93a36a1660f248f97ccea050d9b655129da09e4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e394617fff3391ed81b23b4a476c3a40417deca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/268c2023514044b4e1896f542f011c28e85a05c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57e58f38fc6a8ca7d20d1aa56c35cdb6f25cbac5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/bc8c9e94c69c7949e4784f4aee342b298a74d700/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b63a1122ff53b96a38f379b357436702ebdffa11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/da4ddf97c4564e5012a7352245706ccff05a22eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fcab094cf62ec5e05cfc01c631cef9331d8680e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/980c925c0cadf615897a677b3a3b3f1d5c5dfc7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1541291aa1e1892eb35e65769ebed8a3e6daba9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/573c4e363a791b6cf013c89fbce5987666f9a0a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a1117a6e595b1d66ddd926d3c0deab90a8a10da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/81d3daa54a3856cc6fc25beb75ee4e311c530a33/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3afdbf42d3cff6e0321f297c08e36e60cbe5e032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/be22b3a21239072f5b8fc6fdbae6b90997eaead7/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ff80e8d121f648314650ab755b09d6351628ef01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/ad426dbb28f23bbdc0094980de0cc44d8157ba4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d7914fe31fef641d14d2744c0e148dbe3d988ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/ebc97447e80f1f4d2147a00bf1912fffb8b8e537/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c19e21657d37b58ca07db3c9c0a2b0cf019e03f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/7340c0126e70043beab1c43b3f8a20aa59f08f46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30820a43a023956dd9b641f09aadb1895a24d442/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/232786f6d4e2bc3c57ae1799a0683cf91662a86a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_333c600b1990cff7e1bb35683b30167ad3495c81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/a46ad359cd203e41a4cc6ca5263d4e0880d604f6/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_116d4cee6edb5aa66f71f9c9fbbe5541aad4742e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/beb2d0f0fa8d8a21f1bd1a7fe8d41a5eaf36f44c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab7c4237b6c79d33bd0d10d1147981a6c42f1681/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/4bff58e05a28c005adf5ca21f30c7b5d6a704129/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b42c6b78ff095471fa771cf3baaaaa7a78020d0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/436229d81ffc7eb4ae469b3ce130153adf706444/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d04efafd48fee3c993aa092d7a005e24f62956a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/c3a8dd9c4cb5bfe50ab3c22b4d056594d965e91a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d4352fd77448e9863cc153c0c6c2264b960202a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/1f2475318d8fd335984e8ddfe6d9786200f6dd5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d47418aa32e2e568d05befc9e798ba984f8b0da7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/0e021c6b2bd2cde9bbd322f7a91c3726df66b90c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91c3e4fb7f41b82e0f7c2cba04ea9d587f8546d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/71d8a449ea3ea2aa2c297801e3ccb5bc6989b76d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de868225440ce2660e9bebc293ae577dc3c954e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/0184807a0cd2255f8af1725da66f4cd3b0054dcf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b36a7016ea21dfd05d0648a3184f8b6881eb89d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/8853b259824a2248c0d5de9244b1a0f97905e582/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c33214eb7881057e37ab506c038dc87a1ef7a675/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/7aa237565abef7577b64db3bc901d8bbebcb1381/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_193514b9944c61cb16384a9385d84210aed41e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/71fbf47afe05cb0919a03e893fd126ad3272dfe5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_746faf60d450cdf29425e544b0541a76d9568ad2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/989b54765b6bc27b04c1bbc81049e581dd4e43a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_caacc400ee07e0a7d7b59e791eb17f1c5bc5a816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/653259f5a3595422e6d1f7f19e8ecffd18733c04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66ed7f9608640a861ae070d8507c00f1b89fe842/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/e7caf23bc007999b03f03d417962b174eb6d72aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06729d2f07a7b79df46caf124fbeb028df1d5add/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/268c2023514044b4e1896f542f011c28e85a05c1/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_427ae96a8da458867b650a63883e8cf09a78f903/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/c8f907597b52e0a594911a9bea78dd4b6321b34b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88460d210f67cbe5dc19007d44a7a4383ac6b0c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/f830cae6412cb767ace1e53480219f7936a3f431/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7611625b49bc55175f217baadc2150b6fc82e330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/110ff2e613122c1ddc7d9511853e88ff169eea3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4b990bde256def5323350d9439875cb7406f05b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/12a998edd0abe57d2031a3ef0f514d8d2a6d01e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6705910158a07b114aa108acbb71666da18b513/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/d5215928581c5320e9a5907e0d7d68b34a8f5de1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a35ec0b6fff6cb91dba232ab39db9fb0db1d869/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/52b6d33b22fefc6dbe3ec749424d0673cc9d6038/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef1bdcc229b3083cd636c1e73cac4772a114eaf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/6d12a720304e072de80154f0945299a3a7fb072a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a71385b665850d1a9f9aa02a1399c12043604e38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/44f53cb687e2fe4d51203a22be50698e6580571e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_616c0c72ab2696861f7ef1ef6b0f46f7f0d29a65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/ede8fb179bb546f557dbb841134f418ddb32538c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f71d3c2b3e1c0e0cc5ab0f86322b37d68b7d3744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/7da208a0bd41ef1c0de3e31757ebce7ecc3f6492/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bff408e7674e1049b334e4cc52ef25e4c5384c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/0360dfbde6cea8d2ecf2ad2e3e49498d19114b4d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32f82983716ead212d8c8a6329f5332a964c635d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/773fca24df0cd7778d9e2e2186ab26b1e4877796/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c70d00f55629a5ba70a86c090b716b67feacd4a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/be22b3a21239072f5b8fc6fdbae6b90997eaead7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8705b9a5874d3c1ad6d7e16d16f0364d19ca372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/f7f92e06872faccb67eb0b4217b4850438f3f707/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e61853f32c7becdf670c1493898f7c6b75f46ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/4d00b1479f28aef7d0679180c46d21c47bfcebf0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7939ead35bf5d1b467c7eff0cc0034b5a2ff1f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/4ebccec8f751d2592a3088a2802d244906b11fda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c81815792a691bb75405debc79b9a2c5bb0ea00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/a5169e2ecd74da6b9945e318da3ed073211d8435/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95b89ae19d4a141c4c433294df234ab9aa7810b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/c0814b7471e84798d3172bda67fe4b9ff6b6fd64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd187673fe4908c0c91c0d977d57730d30d151f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/2e9c00dc4841c6e9abe3f99a49a6adfaffee2ff5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e05797f57ef2614a08ab429f2b14957b00b67727/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/5dd09cbbe4ad628ece0ceb7d810291dd32a2a1a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21f6690193cc2ad00d0eb46de61c8239599558f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/f1d6af28395ca3c3dd2bed85f20fcd05c050be25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54881e03979a21e41ba9a1561361b17edf5e3807/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/dd4d5a50c7510446ad9d5537dbbddd43b131ebdb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0dccfe70e963fd9225079472994795e6e70a8e12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/5d97b9c04ace8f09a6a5ae6930f853afaffc2a93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efb221104b12e8ccdc657130c1c3342f3b4348f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DivuHimmu/.android/build-cache/0d0f8b2362243b4ce6b8f3d09ae7813916c98764/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/DivuHimmu/Desktop/android-samples-master/tutorials/MapWithMarker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a32c81f208f4ffb95f08d5bd022c3a5ac6da0dd9/classes.dex" />
+    </item>
+
+</items>
